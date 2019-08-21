@@ -1,0 +1,119 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{}
+.over{
+	overflow: hidden;
+}
+.container{
+	width: 1170px;
+	margin: 0 auto;
+}
+/*Header section Start*/
+.heads{
+	margin: 20px0 0 0;
+	background: Teal;
+	padding: 20px 0;
+}
+.heads h1{
+	text-align: center;
+	color: orange;
+	font-size: 35px;
+	text-transform: capitalize;
+}
+.heads marquee{
+	text-transform: capitalize;
+	color: #fff;
+}
+.nav{}
+.nav ul {
+	list-style: none;
+	text-align: center;
+	margin: 15px 0 0 0;
+}
+.nav ul li {
+	display: inline-block;
+}
+.nav ul li a {
+	text-decoration: none;
+	color: black;
+	background: #c3c1c1;
+	padding: 5px 10px;
+}
+/*
+.nav ul li a:link{
+	color: green;
+}
+.nav ul li a:visited{
+	color: red;
+}
+.nav ul li a:active{
+	color: brown;
+}
+*/
+.nav ul li a:hover{
+	color: blue;
+}
+.nav ul li a.active{
+	background: green;
+}
+/*Header section Stop*/
+/*Slider section Start*/
+.slider {
+	background: #e3c5c5;
+}
+.image{
+	float: left;
+	width: 40%;
+}
+.image img {
+	width: 70%;
+	border: green solid 10px;
+	outline: grey solid 8px;
+	margin: 20px 56px;
+}
+.conts {
+	float: left;
+	width: 58%;
+	margin: 4% 1%;
+}
+.conts h2{
+	text-align: center;
+}
+.conts p{
+	text-align: justify;
+}
+.conts a {
+	text-decoration: none;
+	color: #000;
+	background: skyblue;
+	padding: 5px;
+	border-radius: 10px;
+	margin: 10px 0 0 0;
+	display: inline-block;
+}
+.conts a:hover{}
+/*Slider section Stop*/
+/*contant section Start*/
+.contant{}
+.para1 {
+	float: left;
+	width: 33.33%;
+	margin: 20px 0;
+}
+.para1 h2{}
+.para1 p{}
+/*contant section Stop*/
+/*Footer section Start*/
+.foots {
+	background: grey;
+	padding: 22px 0px;
+	text-align: center;
+}
+.foots p{
+	text-align: center;
+	color: #fff;
+}
+/*Footer section Stop*/
