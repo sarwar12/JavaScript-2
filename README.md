@@ -1,7 +1,8 @@
 # JavaScript-2
 
 ### JavaScript work:
-	**Getting the type of variable**
+
+	** Getting the type of variable **
 	typeof(variable name);
 
 	**Write any Content**
