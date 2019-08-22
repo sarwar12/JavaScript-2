@@ -1,6 +1,6 @@
-#JavaScript-2
+# JavaScript-2
 
-###JavaScript work:
+### JavaScript work:
 
 **Getting the type of variable** <br />
 typeof(variable name);
@@ -22,7 +22,7 @@ Ex:  <script type="text/javascript">
 alert('Hello World');
 ***
 	
-**Prompt Box**__Show Up string__
+**Prompt Box**
 var a=prompt('Enter Your Number', ' ');
 document.write(typeof(a));
 
