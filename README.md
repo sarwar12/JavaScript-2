@@ -2,20 +2,20 @@
 
 ### JavaScript work:
 
-**Getting the type of variable** <br />
+-Getting the type of variable
 typeof(variable name);
 
-**Write any Content**
+-Write any Content
 document.write('This is My website');
 
-**Write anything with breaklinr (BR)**
+-Write anything with breaklinr (BR)
 document.write('This is My website'+'<br />');
 
-**Write any Tag**
+-Write any Tag
 document.write('<h1>This  is My world</h1>');
 document.write('<p>This  is My world</p>');
 
-###JS Effect/ JS Working:
+### JS Effect/ JS Working:
 **PoPup Window**
 alert('Hello World');
 Ex:  <script type="text/javascript"> 
