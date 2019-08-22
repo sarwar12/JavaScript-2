@@ -12,8 +12,8 @@ document.write('This is My website');
 document.write('This is My website'+'<br />');
 
 **Write any Tag**
-document.write('<h1>This  is My world</h1>')
-document.write('<p>This  is My world</p>')
+document.write('<h1>This  is My world</h1>');
+document.write('<p>This  is My world</p>');
 
 ###JS Effect/ JS Working:
 **PoPup Window**
