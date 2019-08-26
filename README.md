@@ -21,6 +21,7 @@ alert('Hello World');
 Ex:  <script type="text/javascript"> 
 alert('Hello World');
 ***
+***
 	
 **Prompt Box**
 var a=prompt('Enter Your Number', ' ');
