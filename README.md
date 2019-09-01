@@ -2,7 +2,7 @@
 
 ### JavaScript Work:
 
-	1) You can write in HTML with js:
+**1) You can write in HTML with js:**
 	           (EX) <h1><script>document.write('This is my Home!')</script></h1>
 		<p><script>document.write('This is my Home!')</script></p> 
 
