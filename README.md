@@ -2,7 +2,7 @@
 
 ### JavaScript Work:
 
-**1) You can write in HTML with js:**
+	1) You can write in HTML with js:
 	           (EX) <h1><script>document.write('This is my Home!')</script></h1>
 		<p><script>document.write('This is my Home!')</script></p> 
 
@@ -45,6 +45,7 @@
 		myself();     		 (you call Function Name)
 		document.write(color);
 ***
+
 ### javaScript Output show :
 	1) innerHTML (its define HTML Element)
 		var a = 'g sarwar ';
@@ -82,6 +83,7 @@
 		console.log(sum);
 		console.timeEnd('Check Time';) 
 ***
+
 ### Include variables Symbole:
 	concate/concatination --> +
 	
