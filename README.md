@@ -22,7 +22,7 @@
 		document.write(sum);
 		document.write(min);
 		document.write(pro);
-	            (or) document.write(sum + min + pro + div );
+	   (or) document.write(sum + min + pro + div );
 	--------------------------------------------------------------------------------------------------------
 	3) Function:
 	
@@ -64,14 +64,14 @@
 		var b = 'nahin';
 		var myname = a+b;
 		window.alert(myname); 	(OR)      alert(myname);
-	Note:: Its showing popup window on screen.
+	 Note:: Its showing popup window on screen.
 	---------------------------------------------------------------------------------------
 	4) console.log(); 
 		var a = 'g sarwar ';
 		var b = 'nahin';
 		var myname = a+b;
 		console.log(myname);
-	Note:: Its show Browser Developer Tool console
+	 Note:: Its show Browser Developer Tool console
 
 	(***) More On Console command: (its text browser console panel)
 		console.info('You have a nice information.');   ---> Its show information icon.
@@ -98,6 +98,5 @@
 	One
 	oneTwo
 ***	
-
 ## G SARWAR
 #### Web Instructor
